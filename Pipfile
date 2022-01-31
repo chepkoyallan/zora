@@ -15,6 +15,7 @@ protobuf = "*"
 install = "*"
 tensorflow-transform = "*"
 jupyter = "*"
+matplotlib = "*"
 
 [dev-packages]
 
